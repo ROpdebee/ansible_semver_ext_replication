@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4992072.svg)](https://doi.org/10.5281/zenodo.4992072)
+
 Replication package for our analysis of Semantic Versioning in Ansible Galaxy role repositories.
 
 This replication package consists of three parts:
